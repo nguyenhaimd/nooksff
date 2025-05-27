@@ -1,0 +1,363 @@
+{
+  "top_weekly_scores": [
+    {
+      "player": "Aaron Rodgers*+",
+      "year": 2011,
+      "week": 15,
+      "points": 71.5
+    },
+    {
+      "player": "Drew Brees*",
+      "year": 2011,
+      "week": 15,
+      "points": 71.0
+    },
+    {
+      "player": "Tom Brady*",
+      "year": 2011,
+      "week": 3,
+      "points": 68.8
+    },
+    {
+      "player": "Josh Allen*",
+      "year": 2022,
+      "week": 14,
+      "points": 65.4
+    },
+    {
+      "player": "Cam Newton*",
+      "year": 2011,
+      "week": 2,
+      "points": 63.4
+    },
+    {
+      "player": "Matthew Stafford",
+      "year": 2011,
+      "week": 6,
+      "points": 60.5
+    },
+    {
+      "player": "LeSean McCoy*+",
+      "year": 2011,
+      "week": 12,
+      "points": 51.9
+    },
+    {
+      "player": "Tom Brady*",
+      "year": 2018,
+      "week": 10,
+      "points": 51.2
+    },
+    {
+      "player": "Cam Newton",
+      "year": 2018,
+      "week": 4,
+      "points": 51.1
+    },
+    {
+      "player": "Calvin Johnson*+",
+      "year": 2011,
+      "week": 16,
+      "points": 50.9
+    },
+    {
+      "player": "Ben Roethlisberger",
+      "year": 2020,
+      "week": 7,
+      "points": 50.1
+    },
+    {
+      "player": "Mitchell Trubisky*",
+      "year": 2018,
+      "week": 13,
+      "points": 50.0
+    },
+    {
+      "player": "Matt Ryan",
+      "year": 2020,
+      "week": 10,
+      "points": 49.5
+    },
+    {
+      "player": "Ray Rice*",
+      "year": 2011,
+      "week": 4,
+      "points": 49.1
+    },
+    {
+      "player": "Cam Newton",
+      "year": 2020,
+      "week": 14,
+      "points": 48.6
+    },
+    {
+      "player": "Kirk Cousins",
+      "year": 2020,
+      "week": 6,
+      "points": 48.0
+    },
+    {
+      "player": "Derek Carr",
+      "year": 2020,
+      "week": 4,
+      "points": 47.8
+    },
+    {
+      "player": "Arian Foster*",
+      "year": 2011,
+      "week": 6,
+      "points": 46.7
+    },
+    {
+      "player": "Eli Manning*",
+      "year": 2011,
+      "week": 10,
+      "points": 46.4
+    },
+    {
+      "player": "Matt Ryan",
+      "year": 2011,
+      "week": 13,
+      "points": 45.5
+    },
+    {
+      "player": "Kirk Cousins",
+      "year": 2018,
+      "week": 1,
+      "points": 45.3
+    },
+    {
+      "player": "Tony Romo",
+      "year": 2011,
+      "week": 6,
+      "points": 43.8
+    },
+    {
+      "player": "Matthew Stafford",
+      "year": 2020,
+      "week": 7,
+      "points": 42.8
+    },
+    {
+      "player": "Maurice Jones-Drew*+",
+      "year": 2011,
+      "week": 11,
+      "points": 40.0
+    },
+    {
+      "player": "Philip Rivers*",
+      "year": 2011,
+      "week": 3,
+      "points": 38.6
+    }
+  ],
+  "most_40_plus_games": [
+    {
+      "player": "Cam Newton",
+      "count": 4
+    },
+    {
+      "player": "Tom Brady*",
+      "count": 3
+    },
+    {
+      "player": "Matt Ryan",
+      "count": 3
+    },
+    {
+      "player": "Aaron Rodgers*+",
+      "count": 2
+    },
+    {
+      "player": "Drew Brees*",
+      "count": 2
+    },
+    {
+      "player": "Matthew Stafford",
+      "count": 2
+    },
+    {
+      "player": "Kirk Cousins",
+      "count": 2
+    },
+    {
+      "player": "Eli Manning*",
+      "count": 2
+    },
+    {
+      "player": "LeSean McCoy*+",
+      "count": 2
+    },
+    {
+      "player": "Tony Romo",
+      "count": 2
+    },
+    {
+      "player": "Ben Roethlisberger",
+      "count": 2
+    },
+    {
+      "player": "Mitchell Trubisky*",
+      "count": 2
+    },
+    {
+      "player": "Philip Rivers*",
+      "count": 2
+    },
+    {
+      "player": "Josh Allen*",
+      "count": 1
+    },
+    {
+      "player": "Cam Newton*",
+      "count": 1
+    },
+    {
+      "player": "Ray Rice*",
+      "count": 1
+    },
+    {
+      "player": "Derek Carr",
+      "count": 1
+    },
+    {
+      "player": "Calvin Johnson*+",
+      "count": 1
+    },
+    {
+      "player": "Maurice Jones-Drew*+",
+      "count": 1
+    },
+    {
+      "player": "Arian Foster*",
+      "count": 1
+    }
+  ],
+  "top_season_totals": [
+    {
+      "player": "Aaron Rodgers*+",
+      "year": 2011,
+      "season_points": 397.0
+    },
+    {
+      "player": "Josh Allen*",
+      "year": 2022,
+      "season_points": 396.0
+    },
+    {
+      "player": "Drew Brees*",
+      "year": 2011,
+      "season_points": 394.0
+    },
+    {
+      "player": "Cam Newton*",
+      "year": 2011,
+      "season_points": 369.0
+    },
+    {
+      "player": "Tom Brady*",
+      "year": 2011,
+      "season_points": 366.0
+    },
+    {
+      "player": "Matthew Stafford",
+      "year": 2011,
+      "season_points": 343.0
+    },
+    {
+      "player": "Kirk Cousins",
+      "year": 2020,
+      "season_points": 306.0
+    },
+    {
+      "player": "Ray Rice*",
+      "year": 2011,
+      "season_points": 297.0
+    },
+    {
+      "player": "Cam Newton",
+      "year": 2018,
+      "season_points": 283.0
+    },
+    {
+      "player": "Kirk Cousins",
+      "year": 2018,
+      "season_points": 282.0
+    },
+    {
+      "player": "Matt Ryan",
+      "year": 2020,
+      "season_points": 282.0
+    },
+    {
+      "player": "Eli Manning*",
+      "year": 2011,
+      "season_points": 281.0
+    },
+    {
+      "player": "LeSean McCoy*+",
+      "year": 2011,
+      "season_points": 280.0
+    },
+    {
+      "player": "Tom Brady*",
+      "year": 2018,
+      "season_points": 280.0
+    },
+    {
+      "player": "Tony Romo",
+      "year": 2011,
+      "season_points": 276.0
+    },
+    {
+      "player": "Matt Ryan",
+      "year": 2011,
+      "season_points": 273.0
+    },
+    {
+      "player": "Derek Carr",
+      "year": 2020,
+      "season_points": 272.0
+    },
+    {
+      "player": "Ben Roethlisberger",
+      "year": 2020,
+      "season_points": 267.0
+    },
+    {
+      "player": "Calvin Johnson*+",
+      "year": 2011,
+      "season_points": 263.0
+    },
+    {
+      "player": "Mitchell Trubisky*",
+      "year": 2018,
+      "season_points": 263.0
+    },
+    {
+      "player": "Maurice Jones-Drew*+",
+      "year": 2011,
+      "season_points": 262.0
+    },
+    {
+      "player": "Matthew Stafford",
+      "year": 2020,
+      "season_points": 261.0
+    },
+    {
+      "player": "Cam Newton",
+      "year": 2020,
+      "season_points": 259.0
+    },
+    {
+      "player": "Philip Rivers*",
+      "year": 2011,
+      "season_points": 255.0
+    },
+    {
+      "player": "Arian Foster*",
+      "year": 2011,
+      "season_points": 252.0
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "nooks-fantasy-football-app",
+    "paths": {
+      "components": "src/components",
+      "utils": "src/lib/utils.ts"
+    },
+    "aliases": {
+      "@/components": "src/components",
+      "@/lib": "src/lib"
+    },
+    "tailwind": {
+      "config": "tailwind.config.js",
+      "css": "src/index.css"
+    }
+  }

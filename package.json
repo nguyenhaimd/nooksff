@@ -1,0 +1,29 @@
+{
+  "name": "nooks-fantasy-football-app",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@headlessui/react": "^2.2.4",
+    "@heroicons/react": "^2.2.0",
+    "@radix-ui/react-tabs": "^1.1.11",
+    "class-variance-authority": "^0.7.1",
+    "lucide-react": "^0.508.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^7.6.0",
+    "recharts": "^2.15.3",
+    "tailwind-variants": "^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17",
+    "vite": "^4.3.9"
+  }
+}

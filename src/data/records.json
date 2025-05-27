@@ -1,0 +1,3403 @@
+{
+  "allTimeTotals": [
+    {
+      "manager": "Khoa Do",
+      "pointsFor": 22727.06,
+      "pointsAgainst": 22653.04,
+      "wins": 101,
+      "losses": 116,
+      "winPct": 0.465,
+      "firsts": 0,
+      "sackos": 1,
+      "years": 14
+    },
+    {
+      "manager": "BNC Marvin",
+      "pointsFor": 2727.2,
+      "pointsAgainst": 2956.74,
+      "wins": 10,
+      "losses": 19,
+      "winPct": 0.345,
+      "firsts": 0,
+      "sackos": 1,
+      "years": 2
+    },
+    {
+      "manager": "Quin Hulamm",
+      "pointsFor": 23249.54,
+      "pointsAgainst": 23189.96,
+      "wins": 108,
+      "losses": 113,
+      "winPct": 0.489,
+      "firsts": 0,
+      "sackos": 0,
+      "years": 14
+    },
+    {
+      "manager": "Hai",
+      "pointsFor": 23344.64,
+      "pointsAgainst": 22355.84,
+      "wins": 125,
+      "losses": 96,
+      "winPct": 0.566,
+      "firsts": 3,
+      "sackos": 1,
+      "years": 14
+    },
+    {
+      "manager": "mo",
+      "pointsFor": 23715.98,
+      "pointsAgainst": 22581.34,
+      "wins": 128,
+      "losses": 92,
+      "winPct": 0.582,
+      "firsts": 5,
+      "sackos": 0,
+      "years": 14
+    },
+    {
+      "manager": "Dan",
+      "pointsFor": 3188.24,
+      "pointsAgainst": 3178.06,
+      "wins": 17,
+      "losses": 15,
+      "winPct": 0.531,
+      "firsts": 0,
+      "sackos": 0,
+      "years": 2
+    },
+    {
+      "manager": "Phu",
+      "pointsFor": 21607.78,
+      "pointsAgainst": 21150.86,
+      "wins": 105,
+      "losses": 98,
+      "winPct": 0.517,
+      "firsts": 1,
+      "sackos": 1,
+      "years": 13
+    },
+    {
+      "manager": "John",
+      "pointsFor": 7972.06,
+      "pointsAgainst": 7802.7,
+      "wins": 39,
+      "losses": 37,
+      "winPct": 0.513,
+      "firsts": 1,
+      "sackos": 0,
+      "years": 5
+    },
+    {
+      "manager": "--hidden--",
+      "pointsFor": 13478.82,
+      "pointsAgainst": 14665.34,
+      "wins": 57,
+      "losses": 82,
+      "winPct": 0.41,
+      "firsts": 1,
+      "sackos": 2,
+      "years": 9
+    },
+    {
+      "manager": "lam vu",
+      "pointsFor": 21660.34,
+      "pointsAgainst": 23165.86,
+      "wins": 100,
+      "losses": 122,
+      "winPct": 0.45,
+      "firsts": 0,
+      "sackos": 3,
+      "years": 14
+    },
+    {
+      "manager": "Tim",
+      "pointsFor": 2457.22,
+      "pointsAgainst": 2641.22,
+      "wins": 9,
+      "losses": 18,
+      "winPct": 0.333,
+      "firsts": 0,
+      "sackos": 0,
+      "years": 2
+    },
+    {
+      "manager": "Tam",
+      "pointsFor": 20968.3,
+      "pointsAgainst": 20630.46,
+      "wins": 106,
+      "losses": 91,
+      "winPct": 0.538,
+      "firsts": 0,
+      "sackos": 0,
+      "years": 13
+    },
+    {
+      "manager": "mikea",
+      "pointsFor": 6023.3,
+      "pointsAgainst": 6266.92,
+      "wins": 27,
+      "losses": 33,
+      "winPct": 0.45,
+      "firsts": 0,
+      "sackos": 1,
+      "years": 4
+    },
+    {
+      "manager": "McLovin",
+      "pointsFor": 1541.68,
+      "pointsAgainst": 1523.24,
+      "wins": 8,
+      "losses": 7,
+      "winPct": 0.533,
+      "firsts": 0,
+      "sackos": 0,
+      "years": 1
+    },
+    {
+      "manager": "Josh",
+      "pointsFor": 12982.4,
+      "pointsAgainst": 13000.08,
+      "wins": 56,
+      "losses": 69,
+      "winPct": 0.448,
+      "firsts": 0,
+      "sackos": 0,
+      "years": 8
+    },
+    {
+      "manager": "Jet",
+      "pointsFor": 11162.82,
+      "pointsAgainst": 11111.2,
+      "wins": 56,
+      "losses": 55,
+      "winPct": 0.505,
+      "firsts": 0,
+      "sackos": 1,
+      "years": 7
+    },
+    {
+      "manager": "Wahoouva",
+      "pointsFor": 1448.32,
+      "pointsAgainst": 1601.12,
+      "wins": 6,
+      "losses": 10,
+      "winPct": 0.375,
+      "firsts": 0,
+      "sackos": 0,
+      "years": 1
+    },
+    {
+      "manager": "zachary",
+      "pointsFor": 12361.84,
+      "pointsAgainst": 12183.42,
+      "wins": 61,
+      "losses": 50,
+      "winPct": 0.55,
+      "firsts": 1,
+      "sackos": 0,
+      "years": 7
+    },
+    {
+      "manager": "Calvin",
+      "pointsFor": 1468.96,
+      "pointsAgainst": 1482.72,
+      "wins": 8,
+      "losses": 7,
+      "winPct": 0.533,
+      "firsts": 0,
+      "sackos": 0,
+      "years": 1
+    },
+    {
+      "manager": "Rob",
+      "pointsFor": 9069.46,
+      "pointsAgainst": 8548.58,
+      "wins": 48,
+      "losses": 32,
+      "winPct": 0.6,
+      "firsts": 1,
+      "sackos": 0,
+      "years": 5
+    },
+    {
+      "manager": "Brian",
+      "pointsFor": 8674.86,
+      "pointsAgainst": 8638.16,
+      "wins": 41,
+      "losses": 40,
+      "winPct": 0.506,
+      "firsts": 1,
+      "sackos": 1,
+      "years": 5
+    },
+    {
+      "manager": "Christina",
+      "pointsFor": 1597.7,
+      "pointsAgainst": 1778.08,
+      "wins": 7,
+      "losses": 9,
+      "winPct": 0.438,
+      "firsts": 0,
+      "sackos": 1,
+      "years": 1
+    },
+    {
+      "manager": "Byron",
+      "pointsFor": 925.32,
+      "pointsAgainst": 1358.18,
+      "wins": 2,
+      "losses": 12,
+      "winPct": 0.143,
+      "firsts": 0,
+      "sackos": 1,
+      "years": 1
+    },
+    {
+      "manager": "Derek",
+      "pointsFor": 1589.5,
+      "pointsAgainst": 1480.22,
+      "wins": 7,
+      "losses": 9,
+      "winPct": 0.438,
+      "firsts": 0,
+      "sackos": 0,
+      "years": 1
+    }
+  ],
+  "seasonRecords": [
+    {
+      "year": 2011,
+      "manager": "mo",
+      "points": 1606.34,
+      "wins": 13,
+      "losses": 1,
+      "trades": 3,
+      "moves": 49,
+      "standing": 1
+    },
+    {
+      "year": 2011,
+      "manager": "lam vu",
+      "points": 1391.24,
+      "wins": 9,
+      "losses": 5,
+      "trades": 1,
+      "moves": 20,
+      "standing": 2
+    },
+    {
+      "year": 2011,
+      "manager": "Quin Hulamm",
+      "points": 1660.54,
+      "wins": 10,
+      "losses": 4,
+      "trades": 4,
+      "moves": 27,
+      "standing": 3
+    },
+    {
+      "year": 2011,
+      "manager": "Dan",
+      "points": 1332.68,
+      "wins": 8,
+      "losses": 6,
+      "trades": 0,
+      "moves": 16,
+      "standing": 4
+    },
+    {
+      "year": 2011,
+      "manager": "Hai",
+      "points": 1285.44,
+      "wins": 5,
+      "losses": 9,
+      "trades": 5,
+      "moves": 99,
+      "standing": 5
+    },
+    {
+      "year": 2011,
+      "manager": "Khoa Do",
+      "points": 1215.04,
+      "wins": 6,
+      "losses": 8,
+      "trades": 3,
+      "moves": 32,
+      "standing": 6
+    },
+    {
+      "year": 2011,
+      "manager": "BNC Marvin",
+      "points": 1320.36,
+      "wins": 6,
+      "losses": 8,
+      "trades": 2,
+      "moves": 51,
+      "standing": 7
+    },
+    {
+      "year": 2011,
+      "manager": "Derek",
+      "points": 1463.8,
+      "wins": 7,
+      "losses": 7,
+      "trades": 0,
+      "moves": 17,
+      "standing": 8
+    },
+    {
+      "year": 2011,
+      "manager": "Tim",
+      "points": 1196.04,
+      "wins": 4,
+      "losses": 10,
+      "trades": 2,
+      "moves": 25,
+      "standing": 9
+    },
+    {
+      "year": 2011,
+      "manager": "Byron",
+      "points": 925.32,
+      "wins": 2,
+      "losses": 12,
+      "trades": 0,
+      "moves": 0,
+      "standing": 10
+    },
+    {
+      "year": 2012,
+      "manager": "mo",
+      "points": 1275.14,
+      "wins": 6,
+      "losses": 7,
+      "trades": 3,
+      "moves": 68,
+      "standing": 1
+    },
+    {
+      "year": 2012,
+      "manager": "--hidden--",
+      "points": 1263.3,
+      "wins": 6,
+      "losses": 7,
+      "trades": 0,
+      "moves": 25,
+      "standing": 2
+    },
+    {
+      "year": 2012,
+      "manager": "Dan",
+      "points": 1371.84,
+      "wins": 7,
+      "losses": 6,
+      "trades": 0,
+      "moves": 7,
+      "standing": 3
+    },
+    {
+      "year": 2012,
+      "manager": "John",
+      "points": 1355.3,
+      "wins": 8,
+      "losses": 5,
+      "trades": 0,
+      "moves": 21,
+      "standing": 4
+    },
+    {
+      "year": 2012,
+      "manager": "Phu",
+      "points": 1506.3,
+      "wins": 10,
+      "losses": 3,
+      "trades": 2,
+      "moves": 61,
+      "standing": 5
+    },
+    {
+      "year": 2012,
+      "manager": "Hai",
+      "points": 1331.64,
+      "wins": 9,
+      "losses": 4,
+      "trades": 2,
+      "moves": 43,
+      "standing": 6
+    },
+    {
+      "year": 2012,
+      "manager": "Quin Hulamm",
+      "points": 1312.4,
+      "wins": 7,
+      "losses": 6,
+      "trades": 2,
+      "moves": 36,
+      "standing": 7
+    },
+    {
+      "year": 2012,
+      "manager": "lam vu",
+      "points": 1180.18,
+      "wins": 7,
+      "losses": 6,
+      "trades": 2,
+      "moves": 10,
+      "standing": 8
+    },
+    {
+      "year": 2012,
+      "manager": "Tam",
+      "points": 1218.04,
+      "wins": 6,
+      "losses": 7,
+      "trades": 0,
+      "moves": 18,
+      "standing": 9
+    },
+    {
+      "year": 2012,
+      "manager": "Tim",
+      "points": 1261.18,
+      "wins": 5,
+      "losses": 8,
+      "trades": 0,
+      "moves": 22,
+      "standing": 10
+    },
+    {
+      "year": 2012,
+      "manager": "Khoa Do",
+      "points": 1118.6,
+      "wins": 4,
+      "losses": 9,
+      "trades": 1,
+      "moves": 24,
+      "standing": 11
+    },
+    {
+      "year": 2012,
+      "manager": "BNC Marvin",
+      "points": 1237.0,
+      "wins": 3,
+      "losses": 10,
+      "trades": 0,
+      "moves": 42,
+      "standing": 12
+    },
+    {
+      "year": 2013,
+      "manager": "Hai",
+      "points": 1373.34,
+      "wins": 6,
+      "losses": 7,
+      "trades": 2,
+      "moves": 61,
+      "standing": 1
+    },
+    {
+      "year": 2013,
+      "manager": "--hidden--",
+      "points": 1373.06,
+      "wins": 7,
+      "losses": 6,
+      "trades": 0,
+      "moves": 0
+    },
+    {
+      "year": 2013,
+      "manager": "John",
+      "points": 1581.7,
+      "wins": 10,
+      "losses": 3,
+      "trades": 0,
+      "moves": 21,
+      "standing": 3
+    },
+    {
+      "year": 2013,
+      "manager": "mo",
+      "points": 1426.02,
+      "wins": 8,
+      "losses": 5,
+      "trades": 2,
+      "moves": 47,
+      "standing": 4
+    },
+    {
+      "year": 2013,
+      "manager": "Tam",
+      "points": 1329.26,
+      "wins": 7,
+      "losses": 6,
+      "trades": 0,
+      "moves": 25,
+      "standing": 5
+    },
+    {
+      "year": 2013,
+      "manager": "Phu",
+      "points": 1393.44,
+      "wins": 8,
+      "losses": 5,
+      "trades": 1,
+      "moves": 48,
+      "standing": 6
+    },
+    {
+      "year": 2013,
+      "manager": "Quin Hulamm",
+      "points": 1187.76,
+      "wins": 2,
+      "losses": 11,
+      "trades": 3,
+      "moves": 16,
+      "standing": 7
+    },
+    {
+      "year": 2013,
+      "manager": "--hidden--",
+      "points": 1355.66,
+      "wins": 5,
+      "losses": 8,
+      "trades": 0,
+      "moves": 23,
+      "standing": 8
+    },
+    {
+      "year": 2013,
+      "manager": "Khoa Do",
+      "points": 1330.62,
+      "wins": 6,
+      "losses": 7,
+      "trades": 2,
+      "moves": 33,
+      "standing": 9
+    },
+    {
+      "year": 2013,
+      "manager": "lam vu",
+      "points": 1114.66,
+      "wins": 6,
+      "losses": 7,
+      "trades": 0,
+      "moves": 7,
+      "standing": 10
+    },
+    {
+      "year": 2014,
+      "manager": "--hidden--",
+      "points": 1438.76,
+      "wins": 11,
+      "losses": 2,
+      "trades": 0,
+      "moves": 0
+    },
+    {
+      "year": 2014,
+      "manager": "mo",
+      "points": 1514.58,
+      "wins": 11,
+      "losses": 2,
+      "trades": 1,
+      "moves": 64,
+      "standing": 2
+    },
+    {
+      "year": 2014,
+      "manager": "Hai",
+      "points": 1373.48,
+      "wins": 6,
+      "losses": 7,
+      "trades": 0,
+      "moves": 75,
+      "standing": 3
+    },
+    {
+      "year": 2014,
+      "manager": "Khoa Do",
+      "points": 1435.6,
+      "wins": 8,
+      "losses": 5,
+      "trades": 0,
+      "moves": 19,
+      "standing": 4
+    },
+    {
+      "year": 2014,
+      "manager": "Phu",
+      "points": 1437.92,
+      "wins": 8,
+      "losses": 5,
+      "trades": 0,
+      "moves": 29,
+      "standing": 5
+    },
+    {
+      "year": 2014,
+      "manager": "John",
+      "points": 1368.2,
+      "wins": 7,
+      "losses": 6,
+      "trades": 1,
+      "moves": 36,
+      "standing": 6
+    },
+    {
+      "year": 2014,
+      "manager": "Tam",
+      "points": 1328.96,
+      "wins": 4,
+      "losses": 9,
+      "trades": 0,
+      "moves": 13,
+      "standing": 7
+    },
+    {
+      "year": 2014,
+      "manager": "--hidden--",
+      "points": 1160.1,
+      "wins": 1,
+      "losses": 12,
+      "trades": 0,
+      "moves": 33,
+      "standing": 8
+    },
+    {
+      "year": 2014,
+      "manager": "Quin Hulamm",
+      "points": 1259.06,
+      "wins": 5,
+      "losses": 8,
+      "trades": 0,
+      "moves": 28,
+      "standing": 9
+    },
+    {
+      "year": 2014,
+      "manager": "lam vu",
+      "points": 1267.6,
+      "wins": 4,
+      "losses": 9,
+      "trades": 0,
+      "moves": 4,
+      "standing": 10
+    },
+    {
+      "year": 2015,
+      "manager": "Hai",
+      "points": 1456.34,
+      "wins": 9,
+      "losses": 4,
+      "trades": 1,
+      "moves": 100,
+      "standing": 1
+    },
+    {
+      "year": 2015,
+      "manager": "lam vu",
+      "points": 1297.52,
+      "wins": 7,
+      "losses": 6,
+      "trades": 0,
+      "moves": 18,
+      "standing": 2
+    },
+    {
+      "year": 2015,
+      "manager": "Khoa Do",
+      "points": 1475.46,
+      "wins": 9,
+      "losses": 4,
+      "trades": 0,
+      "moves": 31,
+      "standing": 3
+    },
+    {
+      "year": 2015,
+      "manager": "Phu",
+      "points": 1370.02,
+      "wins": 10,
+      "losses": 3,
+      "trades": 0,
+      "moves": 36,
+      "standing": 4
+    },
+    {
+      "year": 2015,
+      "manager": "Quin Hulamm",
+      "points": 1369.76,
+      "wins": 7,
+      "losses": 6,
+      "trades": 0,
+      "moves": 24,
+      "standing": 5
+    },
+    {
+      "year": 2015,
+      "manager": "John",
+      "points": 1462.58,
+      "wins": 6,
+      "losses": 7,
+      "trades": 0,
+      "moves": 0
+    },
+    {
+      "year": 2015,
+      "manager": "mo",
+      "points": 1316.64,
+      "wins": 6,
+      "losses": 7,
+      "trades": 1,
+      "moves": 47,
+      "standing": 7
+    },
+    {
+      "year": 2015,
+      "manager": "Tam",
+      "points": 1200.36,
+      "wins": 5,
+      "losses": 8,
+      "trades": 0,
+      "moves": 20,
+      "standing": 8
+    },
+    {
+      "year": 2015,
+      "manager": "John",
+      "points": 1126.7,
+      "wins": 5,
+      "losses": 8,
+      "trades": 0,
+      "moves": 21,
+      "standing": 9
+    },
+    {
+      "year": 2015,
+      "manager": "--hidden--",
+      "points": 1097.74,
+      "wins": 1,
+      "losses": 12,
+      "trades": 0,
+      "moves": 21,
+      "standing": 10
+    },
+    {
+      "year": 2016,
+      "manager": "--hidden--",
+      "points": 1297.34,
+      "wins": 7,
+      "losses": 6,
+      "trades": 0,
+      "moves": 24,
+      "standing": 1
+    },
+    {
+      "year": 2016,
+      "manager": "lam vu",
+      "points": 1329.36,
+      "wins": 8,
+      "losses": 5,
+      "trades": 0,
+      "moves": 9,
+      "standing": 2
+    },
+    {
+      "year": 2016,
+      "manager": "mikea",
+      "points": 1425.5,
+      "wins": 8,
+      "losses": 5,
+      "trades": 0,
+      "moves": 24,
+      "standing": 3
+    },
+    {
+      "year": 2016,
+      "manager": "McLovin",
+      "points": 1368.76,
+      "wins": 8,
+      "losses": 5,
+      "trades": 0,
+      "moves": 1,
+      "standing": 4
+    },
+    {
+      "year": 2016,
+      "manager": "Quin Hulamm",
+      "points": 1459.82,
+      "wins": 7,
+      "losses": 6,
+      "trades": 0,
+      "moves": 16,
+      "standing": 5
+    },
+    {
+      "year": 2016,
+      "manager": "Tam",
+      "points": 1339.22,
+      "wins": 8,
+      "losses": 5,
+      "trades": 0,
+      "moves": 17,
+      "standing": 6
+    },
+    {
+      "year": 2016,
+      "manager": "Hai",
+      "points": 1316.8,
+      "wins": 5,
+      "losses": 8,
+      "trades": 1,
+      "moves": 76,
+      "standing": 7
+    },
+    {
+      "year": 2016,
+      "manager": "Phu",
+      "points": 1161.12,
+      "wins": 5,
+      "losses": 8,
+      "trades": 0,
+      "moves": 42,
+      "standing": 8
+    },
+    {
+      "year": 2016,
+      "manager": "mo",
+      "points": 1306.32,
+      "wins": 5,
+      "losses": 8,
+      "trades": 1,
+      "moves": 69,
+      "standing": 9
+    },
+    {
+      "year": 2016,
+      "manager": "Khoa Do",
+      "points": 1354.36,
+      "wins": 4,
+      "losses": 9,
+      "trades": 0,
+      "moves": 36,
+      "standing": 10
+    },
+    {
+      "year": 2017,
+      "manager": "mo",
+      "points": 1192.52,
+      "wins": 8,
+      "losses": 5,
+      "trades": 0,
+      "moves": 85,
+      "standing": 1
+    },
+    {
+      "year": 2017,
+      "manager": "Phu",
+      "points": 1296.38,
+      "wins": 8,
+      "losses": 5,
+      "trades": 0,
+      "moves": 74,
+      "standing": 2
+    },
+    {
+      "year": 2017,
+      "manager": "Jet",
+      "points": 1243.02,
+      "wins": 8,
+      "losses": 5,
+      "trades": 0,
+      "moves": 15,
+      "standing": 3
+    },
+    {
+      "year": 2017,
+      "manager": "Tam",
+      "points": 1379.42,
+      "wins": 11,
+      "losses": 2,
+      "trades": 0,
+      "moves": 13,
+      "standing": 4
+    },
+    {
+      "year": 2017,
+      "manager": "Josh",
+      "points": 1243.48,
+      "wins": 7,
+      "losses": 6,
+      "trades": 0,
+      "moves": 33,
+      "standing": 5
+    },
+    {
+      "year": 2017,
+      "manager": "mikea",
+      "points": 1255.22,
+      "wins": 7,
+      "losses": 6,
+      "trades": 1,
+      "moves": 24,
+      "standing": 6
+    },
+    {
+      "year": 2017,
+      "manager": "Hai",
+      "points": 1254.1,
+      "wins": 6,
+      "losses": 7,
+      "trades": 2,
+      "moves": 92,
+      "standing": 7
+    },
+    {
+      "year": 2017,
+      "manager": "Wahoouva",
+      "points": 1180.42,
+      "wins": 4,
+      "losses": 9,
+      "trades": 1,
+      "moves": 45,
+      "standing": 8
+    },
+    {
+      "year": 2017,
+      "manager": "Quin Hulamm",
+      "points": 1225.34,
+      "wins": 6,
+      "losses": 7,
+      "trades": 0,
+      "moves": 32,
+      "standing": 9
+    },
+    {
+      "year": 2017,
+      "manager": "lam vu",
+      "points": 1218.18,
+      "wins": 7,
+      "losses": 6,
+      "trades": 0,
+      "moves": 12,
+      "standing": 10
+    },
+    {
+      "year": 2017,
+      "manager": "Khoa Do",
+      "points": 1169.6,
+      "wins": 5,
+      "losses": 8,
+      "trades": 1,
+      "moves": 49,
+      "standing": 11
+    },
+    {
+      "year": 2017,
+      "manager": "--hidden--",
+      "points": 975.96,
+      "wins": 1,
+      "losses": 12,
+      "trades": 1,
+      "moves": 14,
+      "standing": 12
+    },
+    {
+      "year": 2018,
+      "manager": "mo",
+      "points": 1359.7,
+      "wins": 7,
+      "losses": 6,
+      "trades": 0,
+      "moves": 68,
+      "standing": 1
+    },
+    {
+      "year": 2018,
+      "manager": "Hai",
+      "points": 1589.5,
+      "wins": 11,
+      "losses": 2,
+      "trades": 2,
+      "moves": 128,
+      "standing": 2
+    },
+    {
+      "year": 2018,
+      "manager": "Phu",
+      "points": 1615.42,
+      "wins": 12,
+      "losses": 1,
+      "trades": 2,
+      "moves": 50,
+      "standing": 3
+    },
+    {
+      "year": 2018,
+      "manager": "Quin Hulamm",
+      "points": 1318.54,
+      "wins": 10,
+      "losses": 3,
+      "trades": 0,
+      "moves": 24,
+      "standing": 4
+    },
+    {
+      "year": 2018,
+      "manager": "Jet",
+      "points": 1190.82,
+      "wins": 6,
+      "losses": 7,
+      "trades": 0,
+      "moves": 7,
+      "standing": 5
+    },
+    {
+      "year": 2018,
+      "manager": "Khoa Do",
+      "points": 1585.08,
+      "wins": 6,
+      "losses": 7,
+      "trades": 4,
+      "moves": 53,
+      "standing": 6
+    },
+    {
+      "year": 2018,
+      "manager": "--hidden--",
+      "points": 1298.98,
+      "wins": 4,
+      "losses": 9,
+      "trades": 2,
+      "moves": 10,
+      "standing": 7
+    },
+    {
+      "year": 2018,
+      "manager": "Josh",
+      "points": 1213.32,
+      "wins": 5,
+      "losses": 8,
+      "trades": 2,
+      "moves": 41,
+      "standing": 8
+    },
+    {
+      "year": 2018,
+      "manager": "lam vu",
+      "points": 1402.08,
+      "wins": 4,
+      "losses": 9,
+      "trades": 0,
+      "moves": 12,
+      "standing": 9
+    },
+    {
+      "year": 2018,
+      "manager": "Tam",
+      "points": 1279.62,
+      "wins": 5,
+      "losses": 8,
+      "trades": 2,
+      "moves": 33,
+      "standing": 10
+    },
+    {
+      "year": 2018,
+      "manager": "zachary",
+      "points": 1284.1,
+      "wins": 4,
+      "losses": 9,
+      "trades": 2,
+      "moves": 40,
+      "standing": 11
+    },
+    {
+      "year": 2018,
+      "manager": "mikea",
+      "points": 1298.76,
+      "wins": 4,
+      "losses": 9,
+      "trades": 0,
+      "moves": 19,
+      "standing": 12
+    },
+    {
+      "year": 2019,
+      "manager": "zachary",
+      "points": 1474.66,
+      "wins": 11,
+      "losses": 2,
+      "trades": 1,
+      "moves": 49,
+      "standing": 1
+    },
+    {
+      "year": 2019,
+      "manager": "Tam",
+      "points": 1430.9,
+      "wins": 8,
+      "losses": 5,
+      "trades": 1,
+      "moves": 30,
+      "standing": 2
+    },
+    {
+      "year": 2019,
+      "manager": "Hai",
+      "points": 1287.24,
+      "wins": 8,
+      "losses": 5,
+      "trades": 4,
+      "moves": 122,
+      "standing": 3
+    },
+    {
+      "year": 2019,
+      "manager": "mo",
+      "points": 1430.86,
+      "wins": 7,
+      "losses": 6,
+      "trades": 1,
+      "moves": 83,
+      "standing": 4
+    },
+    {
+      "year": 2019,
+      "manager": "Phu",
+      "points": 1411.8,
+      "wins": 7,
+      "losses": 6,
+      "trades": 0,
+      "moves": 53,
+      "standing": 5
+    },
+    {
+      "year": 2019,
+      "manager": "mikea",
+      "points": 1397.28,
+      "wins": 7,
+      "losses": 6,
+      "trades": 0,
+      "moves": 18,
+      "standing": 6
+    },
+    {
+      "year": 2019,
+      "manager": "Calvin",
+      "points": 1282.62,
+      "wins": 6,
+      "losses": 7,
+      "trades": 0,
+      "moves": 25,
+      "standing": 7
+    },
+    {
+      "year": 2019,
+      "manager": "lam vu",
+      "points": 1143.18,
+      "wins": 4,
+      "losses": 9,
+      "trades": 0,
+      "moves": 12,
+      "standing": 8
+    },
+    {
+      "year": 2019,
+      "manager": "Quin Hulamm",
+      "points": 1201.4,
+      "wins": 6,
+      "losses": 7,
+      "trades": 1,
+      "moves": 47,
+      "standing": 9
+    },
+    {
+      "year": 2019,
+      "manager": "Khoa Do",
+      "points": 1300.44,
+      "wins": 4,
+      "losses": 9,
+      "trades": 2,
+      "moves": 28,
+      "standing": 10
+    },
+    {
+      "year": 2019,
+      "manager": "Josh",
+      "points": 1259.14,
+      "wins": 5,
+      "losses": 8,
+      "trades": 0,
+      "moves": 55,
+      "standing": 11
+    },
+    {
+      "year": 2019,
+      "manager": "Jet",
+      "points": 1185.3,
+      "wins": 5,
+      "losses": 8,
+      "trades": 0,
+      "moves": 11,
+      "standing": 12
+    },
+    {
+      "year": 2020,
+      "manager": "mo",
+      "points": 1369.02,
+      "wins": 7,
+      "losses": 6,
+      "trades": 3,
+      "moves": 82,
+      "standing": 1
+    },
+    {
+      "year": 2020,
+      "manager": "zachary",
+      "points": 1383.44,
+      "wins": 7,
+      "losses": 6,
+      "trades": 1,
+      "moves": 62,
+      "standing": 2
+    },
+    {
+      "year": 2020,
+      "manager": "Brian",
+      "points": 1455.74,
+      "wins": 10,
+      "losses": 3,
+      "trades": 0,
+      "moves": 18,
+      "standing": 3
+    },
+    {
+      "year": 2020,
+      "manager": "Hai",
+      "points": 1289.52,
+      "wins": 8,
+      "losses": 5,
+      "trades": 3,
+      "moves": 116,
+      "standing": 4
+    },
+    {
+      "year": 2020,
+      "manager": "Rob",
+      "points": 1417.8,
+      "wins": 7,
+      "losses": 6,
+      "trades": 0,
+      "moves": 33,
+      "standing": 5
+    },
+    {
+      "year": 2020,
+      "manager": "Tam",
+      "points": 1474.84,
+      "wins": 7,
+      "losses": 6,
+      "trades": 0,
+      "moves": 21,
+      "standing": 6
+    },
+    {
+      "year": 2020,
+      "manager": "Phu",
+      "points": 1342.94,
+      "wins": 7,
+      "losses": 6,
+      "trades": 0,
+      "moves": 47,
+      "standing": 7
+    },
+    {
+      "year": 2020,
+      "manager": "Jet",
+      "points": 1275.22,
+      "wins": 7,
+      "losses": 6,
+      "trades": 0,
+      "moves": 9,
+      "standing": 8
+    },
+    {
+      "year": 2020,
+      "manager": "Khoa Do",
+      "points": 1263.34,
+      "wins": 5,
+      "losses": 8,
+      "trades": 1,
+      "moves": 73,
+      "standing": 9
+    },
+    {
+      "year": 2020,
+      "manager": "Quin Hulamm",
+      "points": 1284.4,
+      "wins": 4,
+      "losses": 9,
+      "trades": 0,
+      "moves": 39,
+      "standing": 10
+    },
+    {
+      "year": 2020,
+      "manager": "Josh",
+      "points": 1255.32,
+      "wins": 5,
+      "losses": 8,
+      "trades": 1,
+      "moves": 55,
+      "standing": 11
+    },
+    {
+      "year": 2020,
+      "manager": "lam vu",
+      "points": 1140.94,
+      "wins": 4,
+      "losses": 9,
+      "trades": 1,
+      "moves": 22,
+      "standing": 12
+    },
+    {
+      "year": 2021,
+      "manager": "Hai",
+      "points": 1259.56,
+      "wins": 9,
+      "losses": 5,
+      "trades": 2,
+      "moves": 111,
+      "standing": 1
+    },
+    {
+      "year": 2021,
+      "manager": "Jet",
+      "points": 1489.16,
+      "wins": 8,
+      "losses": 6,
+      "trades": 0,
+      "moves": 19,
+      "standing": 2
+    },
+    {
+      "year": 2021,
+      "manager": "Tam",
+      "points": 1533.54,
+      "wins": 10,
+      "losses": 4,
+      "trades": 0,
+      "moves": 24,
+      "standing": 3
+    },
+    {
+      "year": 2021,
+      "manager": "Rob",
+      "points": 1482.62,
+      "wins": 10,
+      "losses": 4,
+      "trades": 1,
+      "moves": 52,
+      "standing": 4
+    },
+    {
+      "year": 2021,
+      "manager": "Josh",
+      "points": 1647.58,
+      "wins": 8,
+      "losses": 6,
+      "trades": 0,
+      "moves": 60,
+      "standing": 5
+    },
+    {
+      "year": 2021,
+      "manager": "zachary",
+      "points": 1460.0,
+      "wins": 8,
+      "losses": 6,
+      "trades": 0,
+      "moves": 38,
+      "standing": 6
+    },
+    {
+      "year": 2021,
+      "manager": "Khoa Do",
+      "points": 1508.66,
+      "wins": 5,
+      "losses": 9,
+      "trades": 1,
+      "moves": 79,
+      "standing": 7
+    },
+    {
+      "year": 2021,
+      "manager": "mo",
+      "points": 1477.3,
+      "wins": 7,
+      "losses": 7,
+      "trades": 0,
+      "moves": 74,
+      "standing": 8
+    },
+    {
+      "year": 2021,
+      "manager": "lam vu",
+      "points": 1325.54,
+      "wins": 7,
+      "losses": 7,
+      "trades": 0,
+      "moves": 25,
+      "standing": 9
+    },
+    {
+      "year": 2021,
+      "manager": "Phu",
+      "points": 1404.86,
+      "wins": 4,
+      "losses": 10,
+      "trades": 0,
+      "moves": 49,
+      "standing": 10
+    },
+    {
+      "year": 2021,
+      "manager": "Quin Hulamm",
+      "points": 1354.56,
+      "wins": 5,
+      "losses": 9,
+      "trades": 0,
+      "moves": 31,
+      "standing": 11
+    },
+    {
+      "year": 2021,
+      "manager": "Brian",
+      "points": 1154.02,
+      "wins": 3,
+      "losses": 11,
+      "trades": 0,
+      "moves": 19,
+      "standing": 12
+    },
+    {
+      "year": 2022,
+      "manager": "Brian",
+      "points": 1580.42,
+      "wins": 8,
+      "losses": 6,
+      "trades": 0,
+      "moves": 13,
+      "standing": 1
+    },
+    {
+      "year": 2022,
+      "manager": "Khoa Do",
+      "points": 1684.1,
+      "wins": 10,
+      "losses": 4,
+      "trades": 0,
+      "moves": 66,
+      "standing": 2
+    },
+    {
+      "year": 2022,
+      "manager": "zachary",
+      "points": 1783.28,
+      "wins": 10,
+      "losses": 4,
+      "trades": 0,
+      "moves": 41,
+      "standing": 3
+    },
+    {
+      "year": 2022,
+      "manager": "lam vu",
+      "points": 1552.3,
+      "wins": 7,
+      "losses": 7,
+      "trades": 0,
+      "moves": 14,
+      "standing": 4
+    },
+    {
+      "year": 2022,
+      "manager": "Tam",
+      "points": 1641.66,
+      "wins": 8,
+      "losses": 6,
+      "trades": 0,
+      "moves": 26,
+      "standing": 5
+    },
+    {
+      "year": 2022,
+      "manager": "Quin Hulamm",
+      "points": 1743.04,
+      "wins": 8,
+      "losses": 6,
+      "trades": 0,
+      "moves": 39,
+      "standing": 6
+    },
+    {
+      "year": 2022,
+      "manager": "Jet",
+      "points": 1524.02,
+      "wins": 6,
+      "losses": 8,
+      "trades": 0,
+      "moves": 11,
+      "standing": 7
+    },
+    {
+      "year": 2022,
+      "manager": "Rob",
+      "points": 1470.7,
+      "wins": 6,
+      "losses": 8,
+      "trades": 0,
+      "moves": 46,
+      "standing": 8
+    },
+    {
+      "year": 2022,
+      "manager": "Hai",
+      "points": 1528.4,
+      "wins": 7,
+      "losses": 7,
+      "trades": 1,
+      "moves": 113,
+      "standing": 9
+    },
+    {
+      "year": 2022,
+      "manager": "mo",
+      "points": 1469.7,
+      "wins": 7,
+      "losses": 7,
+      "trades": 0,
+      "moves": 72,
+      "standing": 10
+    },
+    {
+      "year": 2022,
+      "manager": "Josh",
+      "points": 1453.92,
+      "wins": 6,
+      "losses": 8,
+      "trades": 0,
+      "moves": 48,
+      "standing": 11
+    },
+    {
+      "year": 2022,
+      "manager": "Phu",
+      "points": 1387.92,
+      "wins": 1,
+      "losses": 13,
+      "trades": 1,
+      "moves": 57,
+      "standing": 12
+    },
+    {
+      "year": 2023,
+      "manager": "Phu",
+      "points": 1811.38,
+      "wins": 8,
+      "losses": 6,
+      "trades": 3,
+      "moves": 71,
+      "standing": 1
+    },
+    {
+      "year": 2023,
+      "manager": "Khoa Do",
+      "points": 1634.94,
+      "wins": 10,
+      "losses": 4,
+      "trades": 2,
+      "moves": 67,
+      "standing": 2
+    },
+    {
+      "year": 2023,
+      "manager": "Rob",
+      "points": 1596.12,
+      "wins": 9,
+      "losses": 5,
+      "trades": 2,
+      "moves": 61,
+      "standing": 3
+    },
+    {
+      "year": 2023,
+      "manager": "Quin Hulamm",
+      "points": 1660.5,
+      "wins": 8,
+      "losses": 6,
+      "trades": 1,
+      "moves": 39,
+      "standing": 4
+    },
+    {
+      "year": 2023,
+      "manager": "Josh",
+      "points": 1645.96,
+      "wins": 8,
+      "losses": 6,
+      "trades": 0,
+      "moves": 39,
+      "standing": 5
+    },
+    {
+      "year": 2023,
+      "manager": "zachary",
+      "points": 1583.08,
+      "wins": 7,
+      "losses": 7,
+      "trades": 0,
+      "moves": 56,
+      "standing": 6
+    },
+    {
+      "year": 2023,
+      "manager": "Tam",
+      "points": 1578.04,
+      "wins": 7,
+      "losses": 7,
+      "trades": 0,
+      "moves": 19,
+      "standing": 7
+    },
+    {
+      "year": 2023,
+      "manager": "Brian",
+      "points": 1633.2,
+      "wins": 6,
+      "losses": 8,
+      "trades": 0,
+      "moves": 24,
+      "standing": 8
+    },
+    {
+      "year": 2023,
+      "manager": "lam vu",
+      "points": 1429.4,
+      "wins": 4,
+      "losses": 10,
+      "trades": 2,
+      "moves": 13,
+      "standing": 9
+    },
+    {
+      "year": 2023,
+      "manager": "mo",
+      "points": 1514.36,
+      "wins": 7,
+      "losses": 7,
+      "trades": 2,
+      "moves": 89,
+      "standing": 10
+    },
+    {
+      "year": 2023,
+      "manager": "Jet",
+      "points": 1558.7,
+      "wins": 6,
+      "losses": 8,
+      "trades": 2,
+      "moves": 8,
+      "standing": 11
+    },
+    {
+      "year": 2023,
+      "manager": "Hai",
+      "points": 1390.72,
+      "wins": 4,
+      "losses": 10,
+      "trades": 4,
+      "moves": 61,
+      "standing": 12
+    },
+    {
+      "year": 2024,
+      "manager": "Rob",
+      "points": 1780.34,
+      "wins": 10,
+      "losses": 4,
+      "trades": 1,
+      "moves": 63,
+      "standing": 1
+    },
+    {
+      "year": 2024,
+      "manager": "Tam",
+      "points": 1772.12,
+      "wins": 10,
+      "losses": 4,
+      "trades": 0,
+      "moves": 18,
+      "standing": 2
+    },
+    {
+      "year": 2024,
+      "manager": "Quin Hulamm",
+      "points": 1662.32,
+      "wins": 7,
+      "losses": 7,
+      "trades": 0,
+      "moves": 46,
+      "standing": 3
+    },
+    {
+      "year": 2024,
+      "manager": "zachary",
+      "points": 1656.54,
+      "wins": 7,
+      "losses": 7,
+      "trades": 0,
+      "moves": 36,
+      "standing": 4
+    },
+    {
+      "year": 2024,
+      "manager": "Hai",
+      "points": 1860.44,
+      "wins": 9,
+      "losses": 5,
+      "trades": 1,
+      "moves": 86,
+      "standing": 5
+    },
+    {
+      "year": 2024,
+      "manager": "mo",
+      "points": 1827.28,
+      "wins": 9,
+      "losses": 5,
+      "trades": 1,
+      "moves": 61,
+      "standing": 6
+    },
+    {
+      "year": 2024,
+      "manager": "lam vu",
+      "points": 1551.96,
+      "wins": 7,
+      "losses": 7,
+      "trades": 1,
+      "moves": 17,
+      "standing": 7
+    },
+    {
+      "year": 2024,
+      "manager": "Brian",
+      "points": 1503.78,
+      "wins": 7,
+      "losses": 7,
+      "trades": 1,
+      "moves": 18,
+      "standing": 8
+    },
+    {
+      "year": 2024,
+      "manager": "Josh",
+      "points": 1424.2,
+      "wins": 3,
+      "losses": 11,
+      "trades": 0,
+      "moves": 55,
+      "standing": 9
+    },
+    {
+      "year": 2024,
+      "manager": "Phu",
+      "points": 1393.48,
+      "wins": 3,
+      "losses": 11,
+      "trades": 1,
+      "moves": 70,
+      "standing": 10
+    },
+    {
+      "year": 2024,
+      "manager": "Khoa Do",
+      "points": 1552.84,
+      "wins": 5,
+      "losses": 9,
+      "trades": 3,
+      "moves": 51,
+      "standing": 11
+    },
+    {
+      "year": 2024,
+      "manager": "Christina",
+      "points": 1441.66,
+      "wins": 7,
+      "losses": 7,
+      "trades": 1,
+      "moves": 31,
+      "standing": 12
+    }
+  ],
+  "highestWeeklyScores": [
+    {
+      "manager": "Jet",
+      "year": 2022,
+      "week": 2,
+      "score": 197.72
+    },
+    {
+      "manager": "Josh",
+      "year": 2023,
+      "week": 16,
+      "score": 185.7
+    },
+    {
+      "manager": "Hai",
+      "year": 2024,
+      "week": 16,
+      "score": 181.42
+    },
+    {
+      "manager": "Phu",
+      "year": 2023,
+      "week": 3,
+      "score": 176.26
+    },
+    {
+      "manager": "Tam",
+      "year": 2024,
+      "week": 14,
+      "score": 174.42
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2023,
+      "week": 2,
+      "score": 173.48
+    },
+    {
+      "manager": "zachary",
+      "year": 2024,
+      "week": 15,
+      "score": 172.3
+    },
+    {
+      "manager": "mo",
+      "year": 2018,
+      "week": 7,
+      "score": 170.6
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2014,
+      "week": 13,
+      "score": 170.32
+    },
+    {
+      "manager": "lam vu",
+      "year": 2018,
+      "week": 13,
+      "score": 169.74
+    },
+    {
+      "manager": "Phu",
+      "year": 2023,
+      "week": 10,
+      "score": 169.52
+    },
+    {
+      "manager": "Phu",
+      "year": 2020,
+      "week": 7,
+      "score": 168.08
+    },
+    {
+      "manager": "Phu",
+      "year": 2021,
+      "week": 3,
+      "score": 167.42
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2015,
+      "week": 9,
+      "score": 166.1
+    },
+    {
+      "manager": "Phu",
+      "year": 2023,
+      "week": 12,
+      "score": 165.58
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2015,
+      "week": 7,
+      "score": 165.44
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2018,
+      "week": 10,
+      "score": 165.36
+    },
+    {
+      "manager": "mo",
+      "year": 2020,
+      "week": 12,
+      "score": 165.28
+    },
+    {
+      "manager": "Phu",
+      "year": 2012,
+      "week": 1,
+      "score": 164.16
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2024,
+      "week": 17,
+      "score": 163.86
+    },
+    {
+      "manager": "mikea",
+      "year": 2016,
+      "week": 9,
+      "score": 163.82
+    },
+    {
+      "manager": "Rob",
+      "year": 2024,
+      "week": 14,
+      "score": 163.68
+    },
+    {
+      "manager": "Rob",
+      "year": 2023,
+      "week": 17,
+      "score": 163.6
+    },
+    {
+      "manager": "zachary",
+      "year": 2022,
+      "week": 14,
+      "score": 163.48
+    },
+    {
+      "manager": "Phu",
+      "year": 2021,
+      "week": 5,
+      "score": 162.8
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2024,
+      "week": 4,
+      "score": 162.28
+    },
+    {
+      "manager": "mo",
+      "year": 2024,
+      "week": 11,
+      "score": 161.64
+    },
+    {
+      "manager": "Hai",
+      "year": 2024,
+      "week": 8,
+      "score": 161.44
+    },
+    {
+      "manager": "John",
+      "year": 2013,
+      "week": 4,
+      "score": 161.28
+    },
+    {
+      "manager": "zachary",
+      "year": 2019,
+      "week": 5,
+      "score": 161.26
+    }
+  ],
+  "consistencyScores": [
+    {
+      "manager": "BNC Marvin",
+      "avgPoints": 94.04,
+      "stdDev": 12.28
+    },
+    {
+      "manager": "Byron",
+      "avgPoints": 66.09,
+      "stdDev": 16.9
+    },
+    {
+      "manager": "Wahoouva",
+      "avgPoints": 90.52,
+      "stdDev": 18.56
+    },
+    {
+      "manager": "Dan",
+      "avgPoints": 99.63,
+      "stdDev": 19.35
+    },
+    {
+      "manager": "Tam",
+      "avgPoints": 106.44,
+      "stdDev": 21.06
+    },
+    {
+      "manager": "mikea",
+      "avgPoints": 100.39,
+      "stdDev": 21.27
+    },
+    {
+      "manager": "Brian",
+      "avgPoints": 107.1,
+      "stdDev": 21.92
+    },
+    {
+      "manager": "mo",
+      "avgPoints": 107.8,
+      "stdDev": 22.03
+    },
+    {
+      "manager": "Hai",
+      "avgPoints": 105.63,
+      "stdDev": 22.12
+    },
+    {
+      "manager": "Christina",
+      "avgPoints": 99.86,
+      "stdDev": 22.2
+    },
+    {
+      "manager": "Quin Hulamm",
+      "avgPoints": 105.2,
+      "stdDev": 22.36
+    },
+    {
+      "manager": "lam vu",
+      "avgPoints": 97.57,
+      "stdDev": 22.36
+    },
+    {
+      "manager": "Tim",
+      "avgPoints": 91.01,
+      "stdDev": 22.44
+    },
+    {
+      "manager": "Jet",
+      "avgPoints": 100.57,
+      "stdDev": 22.66
+    },
+    {
+      "manager": "Calvin",
+      "avgPoints": 97.93,
+      "stdDev": 22.7
+    },
+    {
+      "manager": "McLovin",
+      "avgPoints": 102.78,
+      "stdDev": 23.45
+    },
+    {
+      "manager": "Josh",
+      "avgPoints": 103.86,
+      "stdDev": 23.59
+    },
+    {
+      "manager": "Khoa Do",
+      "avgPoints": 104.73,
+      "stdDev": 23.74
+    },
+    {
+      "manager": "Rob",
+      "avgPoints": 113.37,
+      "stdDev": 23.83
+    },
+    {
+      "manager": "--hidden--",
+      "avgPoints": 96.97,
+      "stdDev": 23.93
+    },
+    {
+      "manager": "John",
+      "avgPoints": 104.9,
+      "stdDev": 24.03
+    },
+    {
+      "manager": "Phu",
+      "avgPoints": 106.44,
+      "stdDev": 24.26
+    },
+    {
+      "manager": "zachary",
+      "avgPoints": 111.37,
+      "stdDev": 24.37
+    },
+    {
+      "manager": "Derek",
+      "avgPoints": 99.34,
+      "stdDev": 25.46
+    }
+  ],
+  "trades": [
+    {
+      "manager": "mo",
+      "year": 2011,
+      "count": 3
+    },
+    {
+      "manager": "lam vu",
+      "year": 2011,
+      "count": 1
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2011,
+      "count": 4
+    },
+    {
+      "manager": "Hai",
+      "year": 2011,
+      "count": 5
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2011,
+      "count": 3
+    },
+    {
+      "manager": "BNC Marvin",
+      "year": 2011,
+      "count": 2
+    },
+    {
+      "manager": "Tim",
+      "year": 2011,
+      "count": 2
+    },
+    {
+      "manager": "mo",
+      "year": 2012,
+      "count": 3
+    },
+    {
+      "manager": "Phu",
+      "year": 2012,
+      "count": 2
+    },
+    {
+      "manager": "Hai",
+      "year": 2012,
+      "count": 2
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2012,
+      "count": 2
+    },
+    {
+      "manager": "lam vu",
+      "year": 2012,
+      "count": 2
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2012,
+      "count": 1
+    },
+    {
+      "manager": "Hai",
+      "year": 2013,
+      "count": 2
+    },
+    {
+      "manager": "mo",
+      "year": 2013,
+      "count": 2
+    },
+    {
+      "manager": "Phu",
+      "year": 2013,
+      "count": 1
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2013,
+      "count": 3
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2013,
+      "count": 2
+    },
+    {
+      "manager": "mo",
+      "year": 2014,
+      "count": 1
+    },
+    {
+      "manager": "John",
+      "year": 2014,
+      "count": 1
+    },
+    {
+      "manager": "Hai",
+      "year": 2015,
+      "count": 1
+    },
+    {
+      "manager": "mo",
+      "year": 2015,
+      "count": 1
+    },
+    {
+      "manager": "Hai",
+      "year": 2016,
+      "count": 1
+    },
+    {
+      "manager": "mo",
+      "year": 2016,
+      "count": 1
+    },
+    {
+      "manager": "mikea",
+      "year": 2017,
+      "count": 1
+    },
+    {
+      "manager": "Hai",
+      "year": 2017,
+      "count": 2
+    },
+    {
+      "manager": "Wahoouva",
+      "year": 2017,
+      "count": 1
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2017,
+      "count": 1
+    },
+    {
+      "manager": "--hidden--",
+      "year": 2017,
+      "count": 1
+    },
+    {
+      "manager": "Hai",
+      "year": 2018,
+      "count": 2
+    },
+    {
+      "manager": "Phu",
+      "year": 2018,
+      "count": 2
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2018,
+      "count": 4
+    },
+    {
+      "manager": "--hidden--",
+      "year": 2018,
+      "count": 2
+    },
+    {
+      "manager": "Josh",
+      "year": 2018,
+      "count": 2
+    },
+    {
+      "manager": "Tam",
+      "year": 2018,
+      "count": 2
+    },
+    {
+      "manager": "zachary",
+      "year": 2018,
+      "count": 2
+    },
+    {
+      "manager": "zachary",
+      "year": 2019,
+      "count": 1
+    },
+    {
+      "manager": "Tam",
+      "year": 2019,
+      "count": 1
+    },
+    {
+      "manager": "Hai",
+      "year": 2019,
+      "count": 4
+    },
+    {
+      "manager": "mo",
+      "year": 2019,
+      "count": 1
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2019,
+      "count": 1
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2019,
+      "count": 2
+    },
+    {
+      "manager": "mo",
+      "year": 2020,
+      "count": 3
+    },
+    {
+      "manager": "zachary",
+      "year": 2020,
+      "count": 1
+    },
+    {
+      "manager": "Hai",
+      "year": 2020,
+      "count": 3
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2020,
+      "count": 1
+    },
+    {
+      "manager": "Josh",
+      "year": 2020,
+      "count": 1
+    },
+    {
+      "manager": "lam vu",
+      "year": 2020,
+      "count": 1
+    },
+    {
+      "manager": "Hai",
+      "year": 2021,
+      "count": 2
+    },
+    {
+      "manager": "Rob",
+      "year": 2021,
+      "count": 1
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2021,
+      "count": 1
+    },
+    {
+      "manager": "Hai",
+      "year": 2022,
+      "count": 1
+    },
+    {
+      "manager": "Phu",
+      "year": 2022,
+      "count": 1
+    },
+    {
+      "manager": "Phu",
+      "year": 2023,
+      "count": 3
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2023,
+      "count": 2
+    },
+    {
+      "manager": "Rob",
+      "year": 2023,
+      "count": 2
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2023,
+      "count": 1
+    },
+    {
+      "manager": "lam vu",
+      "year": 2023,
+      "count": 2
+    },
+    {
+      "manager": "mo",
+      "year": 2023,
+      "count": 2
+    },
+    {
+      "manager": "Jet",
+      "year": 2023,
+      "count": 2
+    },
+    {
+      "manager": "Hai",
+      "year": 2023,
+      "count": 4
+    },
+    {
+      "manager": "Rob",
+      "year": 2024,
+      "count": 1
+    },
+    {
+      "manager": "Hai",
+      "year": 2024,
+      "count": 1
+    },
+    {
+      "manager": "mo",
+      "year": 2024,
+      "count": 1
+    },
+    {
+      "manager": "lam vu",
+      "year": 2024,
+      "count": 1
+    },
+    {
+      "manager": "Brian",
+      "year": 2024,
+      "count": 1
+    },
+    {
+      "manager": "Phu",
+      "year": 2024,
+      "count": 1
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2024,
+      "count": 3
+    },
+    {
+      "manager": "Christina",
+      "year": 2024,
+      "count": 1
+    }
+  ],
+  "addsDrops": [
+    {
+      "manager": "mo",
+      "year": 2011,
+      "count": 49
+    },
+    {
+      "manager": "lam vu",
+      "year": 2011,
+      "count": 20
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2011,
+      "count": 27
+    },
+    {
+      "manager": "Dan",
+      "year": 2011,
+      "count": 16
+    },
+    {
+      "manager": "Hai",
+      "year": 2011,
+      "count": 99
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2011,
+      "count": 32
+    },
+    {
+      "manager": "BNC Marvin",
+      "year": 2011,
+      "count": 51
+    },
+    {
+      "manager": "Derek",
+      "year": 2011,
+      "count": 17
+    },
+    {
+      "manager": "Tim",
+      "year": 2011,
+      "count": 25
+    },
+    {
+      "manager": "mo",
+      "year": 2012,
+      "count": 68
+    },
+    {
+      "manager": "--hidden--",
+      "year": 2012,
+      "count": 25
+    },
+    {
+      "manager": "Dan",
+      "year": 2012,
+      "count": 7
+    },
+    {
+      "manager": "John",
+      "year": 2012,
+      "count": 21
+    },
+    {
+      "manager": "Phu",
+      "year": 2012,
+      "count": 61
+    },
+    {
+      "manager": "Hai",
+      "year": 2012,
+      "count": 43
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2012,
+      "count": 36
+    },
+    {
+      "manager": "lam vu",
+      "year": 2012,
+      "count": 10
+    },
+    {
+      "manager": "Tam",
+      "year": 2012,
+      "count": 18
+    },
+    {
+      "manager": "Tim",
+      "year": 2012,
+      "count": 22
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2012,
+      "count": 24
+    },
+    {
+      "manager": "BNC Marvin",
+      "year": 2012,
+      "count": 42
+    },
+    {
+      "manager": "Hai",
+      "year": 2013,
+      "count": 61
+    },
+    {
+      "manager": "John",
+      "year": 2013,
+      "count": 21
+    },
+    {
+      "manager": "mo",
+      "year": 2013,
+      "count": 47
+    },
+    {
+      "manager": "Tam",
+      "year": 2013,
+      "count": 25
+    },
+    {
+      "manager": "Phu",
+      "year": 2013,
+      "count": 48
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2013,
+      "count": 16
+    },
+    {
+      "manager": "--hidden--",
+      "year": 2013,
+      "count": 23
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2013,
+      "count": 33
+    },
+    {
+      "manager": "lam vu",
+      "year": 2013,
+      "count": 7
+    },
+    {
+      "manager": "mo",
+      "year": 2014,
+      "count": 64
+    },
+    {
+      "manager": "Hai",
+      "year": 2014,
+      "count": 75
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2014,
+      "count": 19
+    },
+    {
+      "manager": "Phu",
+      "year": 2014,
+      "count": 29
+    },
+    {
+      "manager": "John",
+      "year": 2014,
+      "count": 36
+    },
+    {
+      "manager": "Tam",
+      "year": 2014,
+      "count": 13
+    },
+    {
+      "manager": "--hidden--",
+      "year": 2014,
+      "count": 33
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2014,
+      "count": 28
+    },
+    {
+      "manager": "lam vu",
+      "year": 2014,
+      "count": 4
+    },
+    {
+      "manager": "Hai",
+      "year": 2015,
+      "count": 100
+    },
+    {
+      "manager": "lam vu",
+      "year": 2015,
+      "count": 18
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2015,
+      "count": 31
+    },
+    {
+      "manager": "Phu",
+      "year": 2015,
+      "count": 36
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2015,
+      "count": 24
+    },
+    {
+      "manager": "mo",
+      "year": 2015,
+      "count": 47
+    },
+    {
+      "manager": "Tam",
+      "year": 2015,
+      "count": 20
+    },
+    {
+      "manager": "John",
+      "year": 2015,
+      "count": 21
+    },
+    {
+      "manager": "--hidden--",
+      "year": 2015,
+      "count": 21
+    },
+    {
+      "manager": "--hidden--",
+      "year": 2016,
+      "count": 24
+    },
+    {
+      "manager": "lam vu",
+      "year": 2016,
+      "count": 9
+    },
+    {
+      "manager": "mikea",
+      "year": 2016,
+      "count": 24
+    },
+    {
+      "manager": "McLovin",
+      "year": 2016,
+      "count": 1
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2016,
+      "count": 16
+    },
+    {
+      "manager": "Tam",
+      "year": 2016,
+      "count": 17
+    },
+    {
+      "manager": "Hai",
+      "year": 2016,
+      "count": 76
+    },
+    {
+      "manager": "Phu",
+      "year": 2016,
+      "count": 42
+    },
+    {
+      "manager": "mo",
+      "year": 2016,
+      "count": 69
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2016,
+      "count": 36
+    },
+    {
+      "manager": "mo",
+      "year": 2017,
+      "count": 85
+    },
+    {
+      "manager": "Phu",
+      "year": 2017,
+      "count": 74
+    },
+    {
+      "manager": "Jet",
+      "year": 2017,
+      "count": 15
+    },
+    {
+      "manager": "Tam",
+      "year": 2017,
+      "count": 13
+    },
+    {
+      "manager": "Josh",
+      "year": 2017,
+      "count": 33
+    },
+    {
+      "manager": "mikea",
+      "year": 2017,
+      "count": 24
+    },
+    {
+      "manager": "Hai",
+      "year": 2017,
+      "count": 92
+    },
+    {
+      "manager": "Wahoouva",
+      "year": 2017,
+      "count": 45
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2017,
+      "count": 32
+    },
+    {
+      "manager": "lam vu",
+      "year": 2017,
+      "count": 12
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2017,
+      "count": 49
+    },
+    {
+      "manager": "--hidden--",
+      "year": 2017,
+      "count": 14
+    },
+    {
+      "manager": "mo",
+      "year": 2018,
+      "count": 68
+    },
+    {
+      "manager": "Hai",
+      "year": 2018,
+      "count": 128
+    },
+    {
+      "manager": "Phu",
+      "year": 2018,
+      "count": 50
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2018,
+      "count": 24
+    },
+    {
+      "manager": "Jet",
+      "year": 2018,
+      "count": 7
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2018,
+      "count": 53
+    },
+    {
+      "manager": "--hidden--",
+      "year": 2018,
+      "count": 10
+    },
+    {
+      "manager": "Josh",
+      "year": 2018,
+      "count": 41
+    },
+    {
+      "manager": "lam vu",
+      "year": 2018,
+      "count": 12
+    },
+    {
+      "manager": "Tam",
+      "year": 2018,
+      "count": 33
+    },
+    {
+      "manager": "zachary",
+      "year": 2018,
+      "count": 40
+    },
+    {
+      "manager": "mikea",
+      "year": 2018,
+      "count": 19
+    },
+    {
+      "manager": "zachary",
+      "year": 2019,
+      "count": 49
+    },
+    {
+      "manager": "Tam",
+      "year": 2019,
+      "count": 30
+    },
+    {
+      "manager": "Hai",
+      "year": 2019,
+      "count": 122
+    },
+    {
+      "manager": "mo",
+      "year": 2019,
+      "count": 83
+    },
+    {
+      "manager": "Phu",
+      "year": 2019,
+      "count": 53
+    },
+    {
+      "manager": "mikea",
+      "year": 2019,
+      "count": 18
+    },
+    {
+      "manager": "Calvin",
+      "year": 2019,
+      "count": 25
+    },
+    {
+      "manager": "lam vu",
+      "year": 2019,
+      "count": 12
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2019,
+      "count": 47
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2019,
+      "count": 28
+    },
+    {
+      "manager": "Josh",
+      "year": 2019,
+      "count": 55
+    },
+    {
+      "manager": "Jet",
+      "year": 2019,
+      "count": 11
+    },
+    {
+      "manager": "mo",
+      "year": 2020,
+      "count": 82
+    },
+    {
+      "manager": "zachary",
+      "year": 2020,
+      "count": 62
+    },
+    {
+      "manager": "Brian",
+      "year": 2020,
+      "count": 18
+    },
+    {
+      "manager": "Hai",
+      "year": 2020,
+      "count": 116
+    },
+    {
+      "manager": "Rob",
+      "year": 2020,
+      "count": 33
+    },
+    {
+      "manager": "Tam",
+      "year": 2020,
+      "count": 21
+    },
+    {
+      "manager": "Phu",
+      "year": 2020,
+      "count": 47
+    },
+    {
+      "manager": "Jet",
+      "year": 2020,
+      "count": 9
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2020,
+      "count": 73
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2020,
+      "count": 39
+    },
+    {
+      "manager": "Josh",
+      "year": 2020,
+      "count": 55
+    },
+    {
+      "manager": "lam vu",
+      "year": 2020,
+      "count": 22
+    },
+    {
+      "manager": "Hai",
+      "year": 2021,
+      "count": 111
+    },
+    {
+      "manager": "Jet",
+      "year": 2021,
+      "count": 19
+    },
+    {
+      "manager": "Tam",
+      "year": 2021,
+      "count": 24
+    },
+    {
+      "manager": "Rob",
+      "year": 2021,
+      "count": 52
+    },
+    {
+      "manager": "Josh",
+      "year": 2021,
+      "count": 60
+    },
+    {
+      "manager": "zachary",
+      "year": 2021,
+      "count": 38
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2021,
+      "count": 79
+    },
+    {
+      "manager": "mo",
+      "year": 2021,
+      "count": 74
+    },
+    {
+      "manager": "lam vu",
+      "year": 2021,
+      "count": 25
+    },
+    {
+      "manager": "Phu",
+      "year": 2021,
+      "count": 49
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2021,
+      "count": 31
+    },
+    {
+      "manager": "Brian",
+      "year": 2021,
+      "count": 19
+    },
+    {
+      "manager": "Brian",
+      "year": 2022,
+      "count": 13
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2022,
+      "count": 66
+    },
+    {
+      "manager": "zachary",
+      "year": 2022,
+      "count": 41
+    },
+    {
+      "manager": "lam vu",
+      "year": 2022,
+      "count": 14
+    },
+    {
+      "manager": "Tam",
+      "year": 2022,
+      "count": 26
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2022,
+      "count": 39
+    },
+    {
+      "manager": "Jet",
+      "year": 2022,
+      "count": 11
+    },
+    {
+      "manager": "Rob",
+      "year": 2022,
+      "count": 46
+    },
+    {
+      "manager": "Hai",
+      "year": 2022,
+      "count": 113
+    },
+    {
+      "manager": "mo",
+      "year": 2022,
+      "count": 72
+    },
+    {
+      "manager": "Josh",
+      "year": 2022,
+      "count": 48
+    },
+    {
+      "manager": "Phu",
+      "year": 2022,
+      "count": 57
+    },
+    {
+      "manager": "Phu",
+      "year": 2023,
+      "count": 71
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2023,
+      "count": 67
+    },
+    {
+      "manager": "Rob",
+      "year": 2023,
+      "count": 61
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2023,
+      "count": 39
+    },
+    {
+      "manager": "Josh",
+      "year": 2023,
+      "count": 39
+    },
+    {
+      "manager": "zachary",
+      "year": 2023,
+      "count": 56
+    },
+    {
+      "manager": "Tam",
+      "year": 2023,
+      "count": 19
+    },
+    {
+      "manager": "Brian",
+      "year": 2023,
+      "count": 24
+    },
+    {
+      "manager": "lam vu",
+      "year": 2023,
+      "count": 13
+    },
+    {
+      "manager": "mo",
+      "year": 2023,
+      "count": 89
+    },
+    {
+      "manager": "Jet",
+      "year": 2023,
+      "count": 8
+    },
+    {
+      "manager": "Hai",
+      "year": 2023,
+      "count": 61
+    },
+    {
+      "manager": "Rob",
+      "year": 2024,
+      "count": 63
+    },
+    {
+      "manager": "Tam",
+      "year": 2024,
+      "count": 18
+    },
+    {
+      "manager": "Quin Hulamm",
+      "year": 2024,
+      "count": 46
+    },
+    {
+      "manager": "zachary",
+      "year": 2024,
+      "count": 36
+    },
+    {
+      "manager": "Hai",
+      "year": 2024,
+      "count": 86
+    },
+    {
+      "manager": "mo",
+      "year": 2024,
+      "count": 61
+    },
+    {
+      "manager": "lam vu",
+      "year": 2024,
+      "count": 17
+    },
+    {
+      "manager": "Brian",
+      "year": 2024,
+      "count": 18
+    },
+    {
+      "manager": "Josh",
+      "year": 2024,
+      "count": 55
+    },
+    {
+      "manager": "Phu",
+      "year": 2024,
+      "count": 70
+    },
+    {
+      "manager": "Khoa Do",
+      "year": 2024,
+      "count": 51
+    },
+    {
+      "manager": "Christina",
+      "year": 2024,
+      "count": 31
+    }
+  ],
+  "playoffStreaks": [
+    {
+      "manager": "mo",
+      "streak": 4
+    },
+    {
+      "manager": "Hai",
+      "streak": 4
+    },
+    {
+      "manager": "lam vu",
+      "streak": 2
+    },
+    {
+      "manager": "Quin Hulamm",
+      "streak": 2
+    },
+    {
+      "manager": "Dan",
+      "streak": 2
+    },
+    {
+      "manager": "John",
+      "streak": 2
+    },
+    {
+      "manager": "Khoa Do",
+      "streak": 2
+    },
+    {
+      "manager": "Phu",
+      "streak": 2
+    },
+    {
+      "manager": "zachary",
+      "streak": 2
+    },
+    {
+      "manager": "Rob",
+      "streak": 2
+    }
+  ],
+  "missedPlayoffs": [
+    {
+      "manager": "Quin Hulamm",
+      "misses": 10
+    },
+    {
+      "manager": "lam vu",
+      "misses": 10
+    },
+    {
+      "manager": "Khoa Do",
+      "misses": 10
+    },
+    {
+      "manager": "Tam",
+      "misses": 8
+    },
+    {
+      "manager": "Josh",
+      "misses": 8
+    },
+    {
+      "manager": "Phu",
+      "misses": 8
+    },
+    {
+      "manager": "Hai",
+      "misses": 7
+    },
+    {
+      "manager": "mo",
+      "misses": 6
+    },
+    {
+      "manager": "Jet",
+      "misses": 5
+    },
+    {
+      "manager": "--hidden--",
+      "misses": 5
+    },
+    {
+      "manager": "Brian",
+      "misses": 3
+    },
+    {
+      "manager": "zachary",
+      "misses": 3
+    },
+    {
+      "manager": "mikea",
+      "misses": 3
+    },
+    {
+      "manager": "Tim",
+      "misses": 2
+    },
+    {
+      "manager": "John",
+      "misses": 2
+    },
+    {
+      "manager": "BNC Marvin",
+      "misses": 2
+    },
+    {
+      "manager": "Rob",
+      "misses": 2
+    },
+    {
+      "manager": "Calvin",
+      "misses": 1
+    },
+    {
+      "manager": "Wahoouva",
+      "misses": 1
+    },
+    {
+      "manager": "Christina",
+      "misses": 1
+    },
+    {
+      "manager": "Byron",
+      "misses": 1
+    },
+    {
+      "manager": "Derek",
+      "misses": 1
+    }
+  ],
+  "topChampion": "mo"
+}
